@@ -106,7 +106,6 @@ Function naming conventions:
 
   Backpropagation: The process by which the gradient of a loss function on a parameter flows back through a network.
 
-  ![fig_MCTS](C:\Users\Administrator\Desktop\WHK\AI\fig_MCTS.png)
 
   ​								 Procedure of MCTS simulation and one node expanded
 
