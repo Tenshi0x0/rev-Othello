@@ -1,8 +1,6 @@
 # Reversed Reversi
 
-Name: Chen Tianle
-
-SID: 12012304
+By Tenshi
 
 
 
